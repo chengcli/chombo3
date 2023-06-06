@@ -1,0 +1,4 @@
+/data1/Model/Chombo-3.2/lib/src/AMRElliptic/../../libamrelliptic2d.Linux.64.g++.gfortran.DEBUG.a(NewPoissonOp4F.o) d/2d.Linux.64.g++.gfortran.DEBUG/NewPoissonOp4F.d : /data1/Model/Chombo-3.2/lib/src/AMRElliptic/../../src/BaseTools/BaseNamespaceFooter.H
+/data1/Model/Chombo-3.2/lib/src/AMRElliptic/../../libamrelliptic2d.Linux.64.g++.gfortran.DEBUG.a(NewPoissonOp4F.o) d/2d.Linux.64.g++.gfortran.DEBUG/NewPoissonOp4F.d : /data1/Model/Chombo-3.2/lib/src/AMRElliptic/../../src/BaseTools/BaseNamespaceHeader.H
+/data1/Model/Chombo-3.2/lib/src/AMRElliptic/../../libamrelliptic2d.Linux.64.g++.gfortran.DEBUG.a(NewPoissonOp4F.o) d/2d.Linux.64.g++.gfortran.DEBUG/NewPoissonOp4F.d : NewPoissonOp4F.ChF
+/data1/Model/Chombo-3.2/lib/src/AMRElliptic/../../libamrelliptic2d.Linux.64.g++.gfortran.DEBUG.a(NewPoissonOp4F.o) d/2d.Linux.64.g++.gfortran.DEBUG/NewPoissonOp4F.d : /data1/Model/Chombo-3.2/lib/src/AMRElliptic/../../src/BaseTools/CONSTANTS.H

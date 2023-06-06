@@ -1,1 +1,5 @@
 .svn
+.check
+*.a
+
+lib/test
